@@ -2,7 +2,7 @@
 - 👀 I’m interested in Engineering
 - 🌱 I’m currently learning Electrical Engineering
 - 💞️ I’m looking to collaborate on open source projects
-- 📫 How to reach me ...
+- 📫 How to reach me at https://fe.disroot.org/@dhitchenor
 - ⚡ Fun fact: I'm a fully qualified medical professional
 
 <!---
